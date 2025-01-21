@@ -3,7 +3,7 @@
 ### Education
 - I have completed comprehensive school.
 - I have graduated from high school.
-- I am currently in my second year of studying ICT with a major in game development at a university of applied sciences.
+- I am currently in my second year of studying ICT with a major in game development at Metropolia university of applied sciences.
 
 ### Projects
 I worked on a small group project where we developed a game during my first year of school. The game was initially created using Python and later remade and elevated with JavaScript.
